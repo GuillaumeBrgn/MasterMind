@@ -37,5 +37,4 @@ public abstract class Mode {
 
     protected abstract boolean tourDeJeu();
 
-
 }
